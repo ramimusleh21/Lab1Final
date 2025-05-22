@@ -81,9 +81,5 @@ int main() {
 	// This is because the other multiply function with 2 arguments is a double and has 2 doubles
 	// while this function uses 2 ints. This allows the compiler to differentiate between the 2 functions.
 
-
-
-
-
 	return 0;
 }
