@@ -19,10 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Andrew.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="rami.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Andrew.h" />
     <ClInclude Include="rami.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
