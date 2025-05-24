@@ -5,6 +5,7 @@
 #include <iostream>
 #include "rami.h"
 #include "Andrew.h"
+#include "eni.h"
 
 #define ARRAY_LENGTH 5
 using namespace std;
